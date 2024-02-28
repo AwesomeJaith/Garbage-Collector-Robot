@@ -19,13 +19,13 @@ https://www.tinkercad.com/things/4fSPcRKKsw4-garbage-collector-circuit?sharecode
 
 Alternatively, you can create your own circuit from this diagram in TinkerCAD or in reality by copying this design:
 
-![Image of the garbage collector circuit design](https://github.com/AwesomeJaith/Garbage-Collector-Robot/blob/main/garbage-collector-circuit.png)
+![Image of the garbage collector circuit design](https://github.com/AwesomeJaith/Garbage-Collector-Robot/blob/main/resources/garbage-collector-circuit.png)
    
 ### Usage
 
 The flowchart below illustrates the decision-making process of the garbage collector robot in response to its environment stimuli. It outlines the steps the robot takes to detect and respond to various conditions while navigating its surroundings.
 
-![Garbage collector algorithm flowchart](https://github.com/AwesomeJaith/Garbage-Collector-Robot/blob/main/garbage-collector-flowchart.png)
+![Garbage collector algorithm flowchart](https://github.com/AwesomeJaith/Garbage-Collector-Robot/blob/main/resources/garbage-collector-flowchart.png)
 
 ### Interactive Testing
 You can interactively test the circuit using TinkerCAD. By referring to the flowchart provided above, you can simulate different scenarios and observe how the garbage collector robot reacts to different inputs. This interactive testing feature allows you to validate the functionality of the circuit and fine-tune its behavior before deployment.
